@@ -9,7 +9,7 @@ describe("About Expects", function() {
   it("should expect equality", function() { 
 	  var expectedValue = 2;
 	  var actualValue = 1 + 1;
-	
+	gi 
 	  expect(actualValue === expectedValue).toBeTruthy();
   });  
 
